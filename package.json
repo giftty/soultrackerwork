@@ -1,0 +1,26 @@
+{
+  "name": "chrometest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "dependencies": {
+    "axios": "^0.18.1",
+    "chromedriver": "^2.46.0",
+    "convert-excel-to-json": "^1.6.1",
+    "exceljs": "^3.2.0",
+    "install": "^0.13.0",
+    "prompts": "^2.3.0",
+    "selenium-webdriver": "^4.0.0-alpha.5",
+    "webdriverio": "^5.7.0",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {
+    "node-key-sender": "^1.0.11"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
